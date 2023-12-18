@@ -76,7 +76,7 @@
                             <h2>Reality Club</h2>
                             <h2><?= $user['p_nama']; ?></h2>
                             <div class="flex flex-row gap-1 text-slate-400">
-                                <h2><?php echo $user['p_warna']; ?></h2>
+                                <h2><?php echo $user['c_warna']; ?></h2>
                                 <span>,</span>
                                 <h2><?php echo $user['c_ukuran']; ?></h2>
                             </div>
